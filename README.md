@@ -1,8 +1,8 @@
 <div align="center">
 
-## 👋 Welcome to my Profile
-#### Muhammad Ramadhiansyah
-##### Full-Stack Developer | Code Enthusiast
+# 👋 Welcome to my Profile
+## Muhammad Ramadhiansyah
+### Full-Stack Developer | Code Enthusiast
 
 </div>
 
