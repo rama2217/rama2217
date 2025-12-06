@@ -15,10 +15,10 @@ Hey! I'm a vocational student at SMKN 4 Malang,
 #### 📚 Currently Learning
 
 <p>
- <a href ="https://www.w3schools.com/html/"><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="40"/></a>
-  <a href ="https://www.w3schools.com/css/"><img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width="40"/></a>
-  <a href ="https://www.w3schools.com/js/"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000B" width="40"/></a>
-  <a href ="https://www.w3schools.com/cpp/"><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="40"/></a>
+ <a href ="https://www.w3schools.com/html/" target="_blank"><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="40"/></a>
+  <a href ="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width="40"/></a>
+  <a href ="https://www.w3schools.com/js/"target="_blank"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000B" width="40"/></a>
+  <a href ="https://www.w3schools.com/cpp/"target="_blank"><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="40"/></a>
 </p>
 
 
