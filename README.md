@@ -1,10 +1,8 @@
+# 👋 Welcome to my Profile <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-# 👋 Welcome to my Profile
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+## Muhammad Ramadhiansyah <br> Full-Stack Developer | Code Enthusiast <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## Muhammad Ramadhiansyah <br> Full-Stack Developer | Code Enthusiast
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 #### 👨‍💻 Introduction
 
