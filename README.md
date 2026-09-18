@@ -12,7 +12,7 @@ Hey! I'm a vocational student at SMKN 4 Malang,
   <a href ="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width="40"/></a>
   <a href ="https://www.w3schools.com/js/" target="_blank"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000B" width="40"/></a>
   <a href ="https://www.w3schools.com/cpp/" target="_blank"><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="40"/></a>
-  <a href ="https://www.w3schools.in/laravel" target="_blank"><img src="https://icons8.com/icon/lRjcvhvtR81o/laravel" width="40"/></a>
+  <a href ="https://www.w3schools.in/laravel" target="_blank"><img src="https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000" width="40"/></a>
 </p>
 
 
